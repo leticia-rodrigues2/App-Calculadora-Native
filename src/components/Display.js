@@ -15,8 +15,8 @@ const styles = StyleSheet.create({
   },
 
   displayValue: {
-     fontSize:60,
-     color: '#black',
+   fontSize:60,
+    color: '#pink',
   }
 })
 export default props =>
